@@ -42,5 +42,9 @@ the JSON response to objects. It also writes to a file
 7. Click on the button next to "Main class"
 8. Click Main
 
+### Installing from release
 
+1. download JAR from release
+2. open a terminal/ command prompt in download location
+3. Run `java -jar target/{filename}.jar` filename is currently Great.Portland.Street.Underground
 
