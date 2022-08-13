@@ -46,5 +46,5 @@ the JSON response to objects. It also writes to a file
 
 1. download JAR from release
 2. open a terminal/ command prompt in download location
-3. Run `java -jar target/{filename}.jar` filename is currently Great.Portland.Street.Underground
+3. Run `java -jar {filename}.jar` filename is currently Great.Portland.Street.Underground
 
