@@ -1,15 +1,15 @@
-#Great portland street arrival application
+# Great portland street arrival application
 An application for polling all tube arrivals to great portland street stationArrivals within a set period of time.
 It uses the tfl unified api and a timer to poll at regular intervals; it also uses Google's GSON to parse
 the JSON response to objects. It also writes to a file 
 
-##Requirments
+## Requirments
 
 1. Maven
 2. JDK 11
 3. Git
 
-###Installation instructions via cmd line / terminal
+### Installation instructions via cmd line / terminal
 
 1. Clone Project
 2. Download and install JDK 11
@@ -19,7 +19,7 @@ the JSON response to objects. It also writes to a file
 6. Open a cmd prompt/ terminal window in project root
 7. Run `java -jar target/underground-1.0-SNAPSHOT.jar`
 
-##Installation instructons via IntelliJ
+## Installation instructons via IntelliJ
 
 ### Via get from vcs
 
